@@ -11,8 +11,8 @@ public class Main{
         nissan.setColor("Electric Blue");
         dodge.setColor("Translucent Gray");
 
-        nissan.setYear(2015);
-        dodge.setYear(2015);
+        nissan.setYear(2012);
+        dodge.setYear(2012);
 
         //sale reduces both vehicles original value by 50%
         nissan.setPrice(nissan.getPrice() /2);
